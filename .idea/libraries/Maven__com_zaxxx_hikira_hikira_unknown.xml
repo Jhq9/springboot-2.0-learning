@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.zaxxx.hikira:hikira:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zaxxx/hikira/hikira/unknown/hikira-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zaxxx/hikira/hikira/unknown/hikira-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/zaxxx/hikira/hikira/unknown/hikira-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

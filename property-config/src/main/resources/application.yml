@@ -1,0 +1,10 @@
+myrandom:
+  random-value: ${random.value}
+  int-value: ${random.int}
+  long-value: ${random.long}
+  uuid: ${random.uuid}
+  less-value: ${random.long(10)}
+  range-value: ${random.int(1,10)}
+  arrays:
+    - May i
+    - Fighting

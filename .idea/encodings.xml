@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dynamic-banner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-world" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongodb-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/property-config" charset="UTF-8" />
+  </component>
+</project>

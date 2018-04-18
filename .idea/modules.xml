@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dynamic-banner/dynamic-banner.iml" filepath="$PROJECT_DIR$/dynamic-banner/dynamic-banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-sample/mongodb-sample.iml" filepath="$PROJECT_DIR$/mongodb-sample/mongodb-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-sample/mybatis-sample.iml" filepath="$PROJECT_DIR$/mybatis-sample/mybatis-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/property-config/property-config.iml" filepath="$PROJECT_DIR$/property-config/property-config.iml" />
+    </modules>
+  </component>
+</project>
